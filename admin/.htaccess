@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Login Password Required"
-AuthUserFile C:\xampp\apache\bin\.htpasswd
-require valid-user
