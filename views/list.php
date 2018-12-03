@@ -30,11 +30,6 @@ body {
 
 <a href="admin/index.php">(チェック用)管理画面</a><br>
 
-<p>テストユーザー</P>
-<p>user_id:test</p>
-<p>name:test</p>
-<p>password:test</p>
-
 <h1><a href="index.php" style="text-decoration:none;">掲示板</a></h1>
 
 <!-- 投稿フォーム -->
