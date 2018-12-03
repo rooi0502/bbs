@@ -1,4 +1,4 @@
-# bbs-practice
+# bbs
 
 サンプル
 https://vast-dawn-19775.herokuapp.com/
